@@ -1,0 +1,12 @@
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\bin\Debug\net5.0-windows\MinesweeperCore.deps.json
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\bin\Debug\net5.0-windows\MinesweeperCore.dll
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\bin\Debug\net5.0-windows\ref\MinesweeperCore.dll
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\bin\Debug\net5.0-windows\MinesweeperCore.pdb
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\obj\Debug\net5.0-windows\MinesweeperCore.csproj.AssemblyReference.cache
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\obj\Debug\net5.0-windows\MinesweeperCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\obj\Debug\net5.0-windows\MinesweeperCore.AssemblyInfoInputs.cache
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\obj\Debug\net5.0-windows\MinesweeperCore.AssemblyInfo.cs
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\obj\Debug\net5.0-windows\MinesweeperCore.csproj.CoreCompileInputs.cache
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\obj\Debug\net5.0-windows\MinesweeperCore.dll
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\obj\Debug\net5.0-windows\ref\MinesweeperCore.dll
+C:\Users\igorl\Desktop\Minesweeper\MinesweeperCore\obj\Debug\net5.0-windows\MinesweeperCore.pdb
