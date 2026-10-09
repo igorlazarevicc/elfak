@@ -1,0 +1,17 @@
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\bin\Debug\netcoreapp3.1\lab3OOProj.exe
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\bin\Debug\netcoreapp3.1\lab3OOProj.deps.json
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\bin\Debug\netcoreapp3.1\lab3OOProj.runtimeconfig.json
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\bin\Debug\netcoreapp3.1\lab3OOProj.runtimeconfig.dev.json
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\bin\Debug\netcoreapp3.1\lab3OOProj.dll
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\bin\Debug\netcoreapp3.1\lab3OOProj.pdb
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\obj\Debug\netcoreapp3.1\lab3OOProj.csproj.AssemblyReference.cache
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\obj\Debug\netcoreapp3.1\lab3OOProj.Form1.resources
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\obj\Debug\netcoreapp3.1\lab3OOProj.csproj.GenerateResource.cache
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\obj\Debug\netcoreapp3.1\lab3OOProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\obj\Debug\netcoreapp3.1\lab3OOProj.AssemblyInfoInputs.cache
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\obj\Debug\netcoreapp3.1\lab3OOProj.AssemblyInfo.cs
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\obj\Debug\netcoreapp3.1\lab3OOProj.csproj.CoreCompileInputs.cache
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\obj\Debug\netcoreapp3.1\lab3OOProj.dll
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\obj\Debug\netcoreapp3.1\lab3OOProj.pdb
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\obj\Debug\netcoreapp3.1\lab3OOProj.genruntimeconfig.cache
+C:\Users\igorl\source\repos\lab3OOProj\lab3OOProj\obj\Debug\netcoreapp3.1\lab3OOProj.Properties.Resources.resources
