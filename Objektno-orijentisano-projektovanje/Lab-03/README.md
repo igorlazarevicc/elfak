@@ -25,9 +25,13 @@ The project also separates the data classes and application logic into dedicated
 - Object-oriented programming and project separation
 
 
-<img width="504" height="634" alt="image" src="https://github.com/user-attachments/assets/30f2daf2-9fed-4f57-afe9-10511fd6dc26" />
-<img width="506" height="634" alt="image" src="https://github.com/user-attachments/assets/eddfdfb3-0b3b-41d5-b04b-652cb545f63e" />
-<img width="506" height="633" alt="image" src="https://github.com/user-attachments/assets/7fdca285-ee18-463a-a593-f4c4a1aa2eae" />
-<img width="506" height="632" alt="image" src="https://github.com/user-attachments/assets/be3ad420-5b37-4762-9002-ff33e87f2427" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30f2daf2-9fed-4f57-afe9-10511fd6dc26" width="24%" />
+  <img src="https://github.com/user-attachments/assets/eddfdfb3-0b3b-41d5-b04b-652cb545f63e" width="24%" />
+  <img src="https://github.com/user-attachments/assets/7fdca285-ee18-463a-a593-f4c4a1aa2eae" width="24%" />
+  <img src="https://github.com/user-attachments/assets/be3ad420-5b37-4762-9002-ff33e87f2427" width="24%" />
+</p>
+
 
 
