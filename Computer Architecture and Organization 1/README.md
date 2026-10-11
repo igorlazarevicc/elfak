@@ -1,0 +1,1 @@
+AOR1 (Arhitektura i organizacija računara 1) — Study of computer architecture fundamentals, processor registers, assembly language programming, instruction execution, memory organization, and low-level arithmetic operations.
